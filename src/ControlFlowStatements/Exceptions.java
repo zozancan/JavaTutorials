@@ -14,4 +14,5 @@ public class Exceptions {
             System.out.println("Something went wrong.");
         }
     }
+
 }
