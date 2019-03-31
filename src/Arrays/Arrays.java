@@ -30,6 +30,7 @@ public class Arrays {
             for (int j = 0; j < myNumbers[i].length; ++j) {
                 System.out.println(myNumbers[i][j]);
             }
+
         }
     }
 }
