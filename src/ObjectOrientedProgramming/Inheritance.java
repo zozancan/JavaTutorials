@@ -7,7 +7,11 @@ public class Inheritance {
 
         employee.showInfos();
 
-        Manager manager = new Manager("Susan Canon", "Product Owner", 15000);
+        Manager manager = new Manager("Susan Canon", "Product Owner", 15000, 20);
+        manager.showInfos();
+        manager.raiseSalary(100);
+
+        System.out.println(manager);
 
 
     }
