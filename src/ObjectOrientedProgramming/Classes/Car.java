@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Classes;
 
 public class Car {
     //Fields, Properties
