@@ -27,7 +27,6 @@ public class Methods {
         return sonuc;
     }
 
-
 }
 
 
