@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Inheritance;
 
 public class Manager extends Employee {
 
