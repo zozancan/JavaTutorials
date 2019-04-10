@@ -1,37 +1,5 @@
 # JavaTutorials
 Java Tutorials for Beginners.
-
-
-##Topics
-* Data Types and Variables
-    * Variables
-    * Comments
-    
-* Control Flow Statements
-    * if-else Expressions
-    * Exceptions
-    * Switch Expressions
-    
-* Loop Control Statements
-    * FOR Loop
-    * WHILE Loop
-    * BREAK statements
-    * CONTINUE keyword
-    
-* Arrays
-    * Arrays
-    
-* Methods
-    * Methods
-    
-* OOP(Object Oriented Programming)
-    * Defining Class and creating Objects
-    * Primary and Secondary Constructors
-    * Encapsulation
-    * Inheritance
-    * Abstract Class, Property and Method
-    * Interface
-    * Polymorphism
     
 * [Data Types and Variables](https://github.com/zozancan/JavaTutorials/tree/1-DataTypesAndVariables)
     * [Variables](https://github.com/zozancan/JavaTutorials/blob/1-DataTypesAndVariables/src/DataTypesAndVariables/Variables.java)
