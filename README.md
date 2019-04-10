@@ -1,5 +1,7 @@
 # JavaTutorials
 Java Tutorials for Beginners.
+
+![hqdefault](https://user-images.githubusercontent.com/47222146/55873273-de57dc00-5b97-11e9-950a-a93cc716bd20.jpg)
     
 * [Data Types and Variables](https://github.com/zozancan/JavaTutorials/tree/1-DataTypesAndVariables)
     * [Variables](https://github.com/zozancan/JavaTutorials/blob/1-DataTypesAndVariables/src/DataTypesAndVariables/Variables.java)
