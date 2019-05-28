@@ -82,5 +82,27 @@ public class Switch {
                     season = "Bogus Month";
         }
         System.out.println("April is in the " + season + ".");
+
+
+        //example
+
+        String str = "two";
+
+        switch (str) {
+            case "one":
+                System.out.println("one");
+                break;
+            case "two":
+                System.out.println("two");
+                break;
+            case "three":
+                System.out.println("three");
+                break;
+                default:
+                    System.out.println("no match");
+                    break;
+        }
+
+
     }
 }
