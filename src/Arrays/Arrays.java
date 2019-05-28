@@ -31,6 +31,7 @@ public class Arrays {
                 System.out.println(myNumbers[i][j]);
             }
 
+
         }
     }
 }
